@@ -1,6 +1,6 @@
 # CollegeBot - Rule Based College FAQ Chatbot
 
-## AI & ML Internship - Project 1 Task 1
+## AI & ML Internship - Project 2 Task 1
 
 CollegeBot is a Python-based rule-driven chatbot developed as part of an Artificial Intelligence and Machine Learning Internship.
 
