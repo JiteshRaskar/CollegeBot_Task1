@@ -44,3 +44,53 @@ The chatbot can answer questions related to:
 
 ## Project Structure
 
+CollegeBot_Task1/
+
+├── Task1_CollegeBot.ipynb
+├── chatbot.py
+├── task1_conversation.png
+└── README.md
+
+
+
+---
+
+## How It Works
+
+1. User enters a query.
+2. Input text is cleaned and preprocessed.
+3. The chatbot searches for matching patterns.
+4. Regex matching improves query understanding.
+5. A suitable response is generated.
+
+---
+
+## Example Queries
+
+Hello
+How can I apply?
+What are the fees?
+Which courses are available?
+Do you provide hostel?
+Tell me about placements
+
+
+---
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- Basics of chatbot development
+- Text preprocessing techniques
+- Pattern matching
+- Regular expressions
+- Python project structuring
+
+---
+
+## Author
+
+Jitesh Prasad Raskar
+
+AI & ML Internship
