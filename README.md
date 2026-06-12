@@ -46,10 +46,10 @@ The chatbot can answer questions related to:
 
 CollegeBot_Task1/
 
-├── Task1_CollegeBot.ipynb
-├── chatbot.py
-├── task1_conversation.png
-└── README.md
+- Task1_CollegeBot.ipynb
+- chatbot.py
+- task1_conversation.png
+- README.md
 
 
 
@@ -67,12 +67,12 @@ CollegeBot_Task1/
 
 ## Example Queries
 
-Hello
-How can I apply?
-What are the fees?
-Which courses are available?
-Do you provide hostel?
-Tell me about placements
+- Hello
+- How can I apply?
+- What are the fees?
+- Which courses are available?
+- Do you provide hostel?
+- Tell me about placements
 
 
 ---
